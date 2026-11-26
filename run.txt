@@ -1,0 +1,7 @@
+cd "C:\Users\Tekintern-10\OneDrive - TEKWISSEN SOFTWARE PRIVATE LIMITED\Documents\sec-edgar-company-explorer\backend"
+
+.\venv\Scripts\python.exe -m uvicorn app.main:app
+
+cd "C:\Users\Tekintern-10\OneDrive - TEKWISSEN SOFTWARE PRIVATE LIMITED\Documents\sec-edgar-company-explorer\frontend"
+
+npm run dev
